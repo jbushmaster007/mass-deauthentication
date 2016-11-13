@@ -18,9 +18,9 @@
 
 ![screenshot](http://gstone.they.org/mass-deauth/mass-deauth-running-02.png)
 
-### If you'd  like to donate to me, for my time and effort, or donate so I can continut development and spending time fixing bugs and adding features, then you can send what you can afford right here at my [PayPal account][3]!
+#### If you'd  like to donate to me, for my time and effort, or donate so I can continut development and spending time fixing bugs and adding features, then you can send what you can afford right here at my [PayPal account][3]!
 
-### For those who like the old-school logo more, I kept one around, but it's not linked to my account anymore. So use the other link, please, it will be much appreciated. ![screenshot](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)
+#### For those who like the old-school logo more, I kept one around, but it's not linked to my account anymore. So use the other link, please, it will be much appreciated. ![screenshot](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)
 
 [1]: https://github.com/RFKiller/mass-deauth/issues
 [2]: https://github.com/RFKiller/mass-deauth/pulls
